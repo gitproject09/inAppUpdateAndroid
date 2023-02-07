@@ -1,10 +1,8 @@
-# In App Update - Android
-
 # [ In App Update - Android][published url]
 ## Developer: [Sopan Ahmed][instructor url]
 
-In App Update - Android
------------------------
+Update include
+--------------
 
  * popup show when an Update is available
  * Choosing update option `Flexible`,  `Immidiate`
